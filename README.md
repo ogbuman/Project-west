@@ -8,17 +8,17 @@
 
 [westgate lifecare](https://westgatelifecare.com.ng) is more than just an online store—it’s a comprehensive platform that brings together a diverse selection of high-quality products across categories like:
 
-*Supermarket: Stock up on everyday essentials and household items.
-*Grocery: Fresh produce, pantry staples, and more.
-*Pharmacy: Trusted health products and medications for your well-being.
-*Cosmetics: Discover the best beauty and skincare products.
-*Restaurant: Order meals from our variety of cuisines, including local favorites.
-*Nature Fresh: Organic and farm-fresh products for healthy living.
-*Bakery: Freshly baked goods delivered to your door.
-*TechHub: The latest gadgets and electronics to keep you connected.
-*Suya Spot & Grills: Enjoy mouth-watering, expertly grilled meals.
-*Fashion: Stay stylish with our wide range of clothing and accessories.
-*Lounge: Unwind with premium lounge services and experiences.
+* Supermarket: Stock up on everyday essentials and household items.
+* Grocery: Fresh produce, pantry staples, and more.
+* Pharmacy: Trusted health products and medications for your well-being.
+* Cosmetics: Discover the best beauty and skincare products.
+* Restaurant: Order meals from our variety of cuisines, including local favorites.
+* Nature Fresh: Organic and farm-fresh products for healthy living.
+* Bakery: Freshly baked goods delivered to your door.
+* TechHub: The latest gadgets and electronics to keep you connected.
+* Suya Spot & Grills: Enjoy mouth-watering, expertly grilled meals.
+* Fashion: Stay stylish with our wide range of clothing and accessories.
+* Lounge: Unwind with premium lounge services and experiences.
 
 [westgate lifecare](https://westgatelifecare.com.ng) is designed with your convenience in mind. With a secure checkout system, multiple payment options, and fast delivery, we ensure that your shopping experience is smooth and hassle-free. Whether you’re stocking up on groceries, shopping for the latest tech, or grabbing a quick meal, Westgate Lifecare has you covered.
 
