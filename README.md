@@ -53,9 +53,9 @@ I explained that I was currently developing a website addressing similar problem
 
 ## Installation
 1. Clone the repository
-   git clone https://github.com/your-repo.git
-2. npm install
-3. npm start
+    git clone https://github.com/ogbuman/Project-west.git
+2. start server
+3. load index page
 ## Usage
 
 Once installed, the platform offers a variety of eCommerce functionalities, including:
@@ -84,11 +84,11 @@ Integrating Stripe as the payment gateway was the most challenging technical hur
 
 ### 2. Managing Cart State
 
-Initially, managing the shopping cart state seemed simple. But I soon realized the importance of persistent data across user sessions. I delved into managing states between client-side (using Redux) and server-side, learning how session management works to enhance user experience.
+Initially, managing the shopping cart state seemed simple. But I soon realized the importance of persistent data across user sessions. I delved into managing states between client-side and server-side, learning how session management works to enhance user experience.
 
 ### 3. Deployment on AWS
 
-Using AWS services like SES for SMTP relay, Route 53 for DNS, and CloudFront for asset delivery came with a steep learning curve. I set up a CI/CD pipeline to make deployments smoother and troubleshot various issues, including securing SES for transactional emails and correctly linking the domain.
+Using AWS services like Ec2 , Route 53 for DNS, and CloudFront for asset delivery came with a steep learning curve. I set up a CI/CD pipeline to make deployments smoother and troubleshot various issues, including securing SES for transactional emails and correctly linking the domain.
 
 ## Next Iteration: What's on the Horizon
 
@@ -104,8 +104,17 @@ I'm proud of the progress so far, but I plan to continue improving Westgate Life
 Here are some screenshots of the platform as it stands today:
 
 - **Homepage**: A user-friendly homepage where users can browse a wide range of products.
+![Project Screenshot](images/Screenshot%20(559).png)
+
 - **Product Detail Page**: Detailed view of a specific product, allowing users to add items to their cart.
-- **Checkout**: A smooth and secure checkout process powered by Stripe.
+![Project Screenshot](images/product%20detail.png)
+![Project Screenshot](images/cart.png)
+
+
+- **Checkout**: A smooth and secure checkout process powered by paystack.
+![Project Screenshot](images/paystack%20checkout.png)
+![Project Screenshot](images/checkout.png)
+
 
 ## The Human Behind the Code
 
@@ -123,14 +132,15 @@ Let me know what you think, and if you'd like to collaborate on future iteration
 
 ## Tech Stack
 
-- **Frontend**: React, Redux
+- **Frontend**: Html, Css, javascript
 - **Backend**: Node.js, Express, MongoDB
-- **Payment Gateway**: Stripe
+- **Payment Gateway**: Paystack
 - **Cloud Services**: AWS (SES, Route 53, CloudFront)
 
 ## Acknowledgments
 
 - **Inspiration**: To the countless developers whose open-source projects helped me reach this point.
 - **Community**: Thanks to everyone who provided feedback along the way.
+- **westgate lifecare team**: Thanks to everyone who in westgate who help me with the project.
 
 This platform is a work in progress, and I am constantly working to improve it with new features and better user experiences.
