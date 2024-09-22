@@ -1,5 +1,7 @@
-This project HAs all the source code compressed in the index
+<div align="center">
+##WESTGATELIFECARE
+</div>
 
-WESTGATELIFECARE
+
 ![Project Screenshot](images/Screenshot%20(559).png)
 <img src="![images/your-image.png](<images/Screenshot (559).png>)" alt="Alt text" width="300"/>
