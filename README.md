@@ -1,5 +1,5 @@
 <div align="center">
-<h1>WESTGATELIFECARE</h1>
+<h1>Westgate Lifecare Supermarket</h1>
 </div>
 
 
